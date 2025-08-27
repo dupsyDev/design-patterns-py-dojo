@@ -1,0 +1,6 @@
+# Ignore hidden files starting with a dot (.*), but not .gitignore
+.*
+!.gitignore
+
+# Ignore files and folders starting with double underscore (__)
+__*
